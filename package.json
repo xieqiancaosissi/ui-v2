@@ -138,12 +138,7 @@
     "webpack-bundle-analyzer": "^4.10.2"
   },
   "resolutions": {
-     "@near-js/accounts": "1.0.2",
-     "@near-js/crypto": "1.2.0",
-     "@near-js/keystores-browser": "0.0.8",
-     "@near-js/transactions": "1.1.0",
-     "@near-js/utils": "0.0.5",
-     "@near-js/wallet-account": "1.0.2"
+     "@near-js/transactions": "1.1.0"
   },
   "engines": {
     "node": ">=18",
